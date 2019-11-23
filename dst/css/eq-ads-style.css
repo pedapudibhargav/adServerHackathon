@@ -1,0 +1,97 @@
+.eq-ads-cta button {
+    padding: 10px 15px;
+    border-radius: 4px;
+    background-color: #ed1c24;
+    border-color: #e21018;
+}
+
+.eq-ads-body h2 {
+    margin-bottom: 10px;
+}
+
+.eq-ads-cta button a {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-family: "Proxima Nova Bold", "Helvetica Neue", Helvetica, Arial, sans-serif;
+    display: block;
+    padding-top: 3px;
+    color: white;
+    text-decoration: none;
+}
+
+.eq-ads-layout-720-by-120 {
+    width: 100%;
+    height: 120px;
+    background-color: rgba(136, 95, 95, 0.2);
+    background-size: cover;
+    background-position: center;
+}
+
+.eq-ads-layout-720-by-120 .eq-ads-body {
+    width: 75%;
+    float: left;
+    display: inline-block;
+}
+
+.eq-ads-layout-720-by-120 .eq-ads-cta {
+    width: 25%;
+    float: left;
+    display: inline-block;
+}
+
+.eq-ads-layout-720-by-120 .eq-ads-cta button {
+    margin-top: 5px;
+}
+
+.eq-ads-layout-720-by-120 .eq-ads-wrapper {
+    overflow: auto;
+    padding: 25px 40px;
+}
+
+.eq-ads-layout-720-by-120 p {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+  }
+
+.eq-ads-align-center {
+    text-align: center;
+}
+
+.eq-ads-layout-300-by-600 {
+    width: 100%;
+    max-width: 300px;
+    height: 600px;
+    background-color: rgba(136, 95, 95, 0.2);
+    background-size: cover;
+    background-position: center;
+    padding-top: 200px;
+}
+
+.eq-ads-layout-300-by-600 .eq-ads-wrapper {
+    padding: 20px 15px;
+}
+
+.eq-ads-layout-600-by-500 {
+    width: 100%;
+    max-width: 600px;
+    height: 400px;
+    background-color: rgba(136, 95, 95, 0.2);
+    background-size: cover;
+    background-position: center;
+    padding-top: 50px;
+}
+.eq-ad-serve.eq-ads-layout-600-by-500{
+    padding-top:0;
+}
+.eq-ad-serve.eq-ads-layout-300-by-600{
+    padding-top:0;
+}
+#eq-loc-selec-wrapper{
+    display: none;
+}
+#eq-randomize-wrapper{
+    margin-top:20px;
+    margin-bottom:25px;
+}
